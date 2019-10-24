@@ -1,1 +1,1 @@
-BAD DATA
+echo '[greeting] [noun]!'
